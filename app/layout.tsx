@@ -105,6 +105,9 @@ export const metadata: Metadata = {
       },
     ],
   },
+  verification: {
+    google: "9ARmgpc1duTGFEaf3zYWceg77wGK_lC1yZD92xCihys",
+  },
 };
 
 import JsonLd from "@/components/json-ld";
